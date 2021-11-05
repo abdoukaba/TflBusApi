@@ -21,7 +21,7 @@ the database
 
 `cd server`
 `python -m pip install requirements.txt`
-`python api.py `
+`python app.py `
 
 Database is created automatically.
 
